@@ -5,8 +5,8 @@ Please keep in mind that the hed created by this software will need some manual 
 
 Dependencies: Python... yeah
 
-You SHOULD NOT move/remove any of these files from the folder: "hedwriteicon.png" "cNp.txt" "HedWriter.exe"
-(these 3 files should be in the same folder, if not, the software will throw you an error or not working at all)
+~~You SHOULD NOT move/remove any of these files from the folder: "hedwriteicon.png" "cNp.txt" "HedWriter.exe"
+(these 3 files should be in the same folder, if not, the software will throw you an error or not working at all)~~
 
 If you found any other errors or bugs then please report to me via discord (MLo7#3256)
 
