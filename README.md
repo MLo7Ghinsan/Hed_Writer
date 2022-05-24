@@ -1,4 +1,4 @@
-###General Note###
+# General Note
 
 This is a tool written by G_MLo7 to make the process of making hed for NNSVS/ENUNU somewhat easier
 Please keep in mind that the hed created by this software will need some manual touch up afterward
@@ -12,7 +12,7 @@ If you found any other errors or bugs then please report to me via discord (MLo7
 
 The codes I did for the script is too messy,so no, I will not be releasing it publicly lmao
 
-###HOW TO USE###
+# HOW TO USE
 (The step by step/box by box name is pretty self explanatory but oh well)
 
 1. Run the "HedWriter.exe"
@@ -37,14 +37,14 @@ The codes I did for the script is too messy,so no, I will not be releasing it pu
 	- Note: anything you put in this box will be used for phoneme in ENUNU/NNSVS usage/training
 
 
-###Buttons###
+# Buttons
 
 Get in_dim: get the value of in_dim that needs to be set for acoustic, timelag, and duration for training
 
 Make Hed: copy the content in "cNp.txt" to the hed that you were making and change the extension from ".txt" to ".hed"
 
 
-###Things that this program can't do (maybe yet)###
+# Things that this program can't do (maybe yet)
 
 - The ability to resume/edit the saved or other hed files
 - The ability to remove/redo the phonemes/flags that were already added
