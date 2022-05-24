@@ -3,7 +3,7 @@
 This is a tool written by G_MLo7 to make the process of making hed for NNSVS/ENUNU somewhat easier
 Please keep in mind that the hed created by this software will need some manual touch up afterward
 
-Dependencies: Python... yeah
+Dependencies: Python... yeah (I used 3.9.6)
 
 ~~You SHOULD NOT move/remove any of these files from the folder: "hedwriteicon.png" "cNp.txt" "HedWriter.exe"
 (these 3 files should be in the same folder, if not, the software will throw you an error or not working at all)~~
