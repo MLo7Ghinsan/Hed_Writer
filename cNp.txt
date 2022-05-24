@@ -1,0 +1,45 @@
+
+CQS "d1_absolute_pitch" {/D:(\NOTE)!}
+CQS "e1_absolute_pitch" {/E:(\NOTE)]}
+CQS "f1_absolute_pitch" {/F:(\NOTE)#}
+
+CQS "p12_position"              {-(\d+)!}
+CQS "p13_position"              {!(\d+)[}
+CQS "p14_distance_from_vowel"   {[(\d+)$}
+CQS "p15_distance_from_vowel"   {$(\d+)]}
+
+CQS "a1_number_of_phonemes"     {/A:(\d+)-}
+CQS "a2_position"               {-(\d+)-}
+CQS "a3_position"               {-(\d+)@}
+
+CQS "b1_number_of_phonemes"     {/B:(\d+)_}
+CQS "b2_position"               {_(\d+)_}
+CQS "b3_position"               {_(\d+)@}
+
+CQS "c1_number_of_phonemes"     {/C:(\d+)+}
+CQS "c2_position"               {+(\d+)+}
+CQS "c3_position"               {+(\d+)@}
+
+CQS "d6_length_by_syllable"     {|(\d+)&}
+CQS "d7_length_by_10ms"         {&(\d+);}
+CQS "d8_length_by_96th_note"    {;(\d+)-}
+
+CQS "e6_length_by_syllable"     {!(\d+)@}
+CQS "e7_length_by_10ms"         {@(\d+)#}
+CQS "e8_length_by_96th_note"    {#(\d+)+}
+
+CQS "e18_position_by_note"      {∼(\d+)#}
+CQS "e19_position_by_note"      {#(\d+)_}
+CQS "e20_position_by_10ms"      {_(\d+);}
+CQS "e21_position_by_10ms"      {;(\d+)$}
+CQS "e22_position_by_96th_note" {$(\d+)&}
+CQS "e23_position_by_96th_note" {&(\d+)%}
+CQS "e24_position_by_percent"   {%(\d+)[}
+CQS "e25_position_by_percent"   {[(\d+)|}
+
+CQS "e57_pitch_difference"      {~([pm]\d+)+}
+CQS "e58_pitch_difference"      {+([pm]\d+)!}
+
+CQS "f6_length_by_syllable"     {$(\d+)+}
+CQS "f7_length_by_10ms"         {+(\d+)%}
+CQS "f8_length_by_96th_note"    {%(\d+);}
