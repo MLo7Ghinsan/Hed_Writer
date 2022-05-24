@@ -8,6 +8,8 @@ Dependencies: Python... yeah (I used 3.9.6)
 ~~You SHOULD NOT move/remove any of these files from the folder: "hedwriteicon.png" "cNp.txt" "HedWriter.exe"
 (these 3 files should be in the same folder, if not, the software will throw you an error or not working at all)~~
 
+The processing algorithm is nothing fancy, it's just making a txt file and edit it from there, then change the extension to hed
+
 If you found any other errors or bugs then please report to me via discord (MLo7#3256)
 
 The codes I did for the script is too messy lmao I wasn't planned on putting it anywhere
