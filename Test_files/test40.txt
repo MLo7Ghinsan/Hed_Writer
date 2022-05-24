@@ -1,0 +1,32 @@
+
+QS          "flag_P1"          {*^P1-*}
+
+QS          "flag_L"          {*^L-*}
+
+QS          "flag_S"          {*^S-*}
+
+QS          "flag_W"          {*^W-*}
+
+QS          "L-phoneme_k"          {*^k-*}
+QS          "C-phoneme_k"          {*-k+*}
+QS          "R-phoneme_k"          {*+k=*}
+
+QS          "L-phoneme_a"          {*^a-*}
+QS          "C-phoneme_a"          {*-a+*}
+QS          "R-phoneme_a"          {*+a=*}
+
+QS          "L-phoneme_i"          {*^i-*}
+QS          "C-phoneme_i"          {*-i+*}
+QS          "R-phoneme_i"          {*+i=*}
+
+QS          "L-phoneme_u"          {*^u-*}
+QS          "C-phoneme_u"          {*-u+*}
+QS          "R-phoneme_u"          {*+u=*}
+
+QS          "L-phoneme_e"          {*^e-*}
+QS          "C-phoneme_e"          {*-e+*}
+QS          "R-phoneme_e"          {*+e=*}
+
+QS          "L-phoneme_o"          {*^o-*}
+QS          "C-phoneme_o"          {*-o+*}
+QS          "R-phoneme_o"          {*+o=*}

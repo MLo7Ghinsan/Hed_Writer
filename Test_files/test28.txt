@@ -1,0 +1,3 @@
+QS          "L-phone_test28"          {*^test28-*}
+QS          "C-phone_test28"          {*-test28+*}
+QS          "R-phone_test28"          {*+test28=*}

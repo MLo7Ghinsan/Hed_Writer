@@ -1,0 +1,8 @@
+
+QS          "L-phoneme_"          {*^-*}
+QS          "C-phoneme_"          {*-+*}
+QS          "R-phoneme_"          {*+=*}
+
+QS          "L-phoneme_"          {*^-*}
+QS          "C-phoneme_"          {*-+*}
+QS          "R-phoneme_"          {*+=*}

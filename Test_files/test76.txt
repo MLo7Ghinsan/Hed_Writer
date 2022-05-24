@@ -1,0 +1,9 @@
+QS          "flag_cold"          {*^C_*}
+
+QS          "L-phoneme_consonant"          {*^k-*}
+QS          "C-phoneme_consonant"          {*-k+*}
+QS          "R-phoneme_consonant"          {*+k=*}
+
+QS          "L-phoneme_consonant"          {*^a-*}
+QS          "C-phoneme_consonant"          {*-a+*}
+QS          "R-phoneme_consonant"          {*+a=*}

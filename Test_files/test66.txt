@@ -1,0 +1,5 @@
+QS          "flag_weak"          {*^W_*}
+
+QS          "L-phoneme_consonant"          {*^k-*}
+QS          "C-phoneme_consonant"          {*-k+*}
+QS          "R-phoneme_consonant"          {*+k=*}

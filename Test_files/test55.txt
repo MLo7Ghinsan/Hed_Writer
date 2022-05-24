@@ -1,0 +1,5 @@
+QS          "flag_.!entry2"          {*^P_*}
+
+QS          "L-phoneme_.!entry3"          {*^k-*}
+QS          "C-phoneme_.!entry3"          {*-k+*}
+QS          "R-phoneme_.!entry3"          {*+k=*}

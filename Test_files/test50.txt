@@ -1,0 +1,9 @@
+QS          "flag_<function click1.<locals>.flag_name at 0x000002704686A320>"          {*^P_*}
+
+QS          "L-phoneme_<function click1.<locals>.phone_name at 0x00000270468EC4C0>"          {*^k-*}
+QS          "C-phoneme_<function click1.<locals>.phone_name at 0x00000270468EC4C0>"          {*-k+*}
+QS          "R-phoneme_<function click1.<locals>.phone_name at 0x00000270468EC4C0>"          {*+k=*}
+
+QS          "L-phoneme_<function click1.<locals>.phone_name at 0x00000270468EC4C0>"          {*^a-*}
+QS          "C-phoneme_<function click1.<locals>.phone_name at 0x00000270468EC4C0>"          {*-a+*}
+QS          "R-phoneme_<function click1.<locals>.phone_name at 0x00000270468EC4C0>"          {*+a=*}

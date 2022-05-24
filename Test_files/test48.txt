@@ -1,0 +1,21 @@
+QS          "flag_P"          {*^P_*}
+
+QS          "L-phoneme_k"          {*^k-*}
+QS          "C-phoneme_k"          {*-k+*}
+QS          "R-phoneme_k"          {*+k=*}
+
+QS          "L-phoneme_a"          {*^a-*}
+QS          "C-phoneme_a"          {*-a+*}
+QS          "R-phoneme_a"          {*+a=*}
+
+QS          "L-phoneme_u"          {*^u-*}
+QS          "C-phoneme_u"          {*-u+*}
+QS          "R-phoneme_u"          {*+u=*}
+
+QS          "L-phoneme_ky"          {*^ky-*}
+QS          "C-phoneme_ky"          {*-ky+*}
+QS          "R-phoneme_ky"          {*+ky=*}
+
+QS          "L-phoneme_g"          {*^g-*}
+QS          "C-phoneme_g"          {*-g+*}
+QS          "R-phoneme_g"          {*+g=*}

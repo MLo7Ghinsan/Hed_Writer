@@ -1,0 +1,5 @@
+QS          "flag_cold"          {*^C_*}
+
+QS          "L-phoneme_k"          {*^k-*}
+QS          "C-phoneme_k"          {*-k+*}
+QS          "R-phoneme_k"          {*+k=*}

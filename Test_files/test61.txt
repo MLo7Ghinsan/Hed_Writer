@@ -1,0 +1,4 @@
+
+QS          "L-phoneme_consonant"          {*^P-*}
+QS          "C-phoneme_consonant"          {*-P+*}
+QS          "R-phoneme_consonant"          {*+P=*}
