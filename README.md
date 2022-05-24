@@ -1,7 +1,7 @@
 # General Note
 
 This is a tool written by G_MLo7 to make the process of making hed for NNSVS/ENUNU somewhat easier
-Please keep in mind that the hed created by this software will need some manual touch up afterward
+Please keep in mind that the hed created by this script might need some manual touch up afterward
 
 Dependencies: Python... yeah (I used 3.9.6)
 
