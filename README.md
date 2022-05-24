@@ -10,7 +10,7 @@ Dependencies: Python... yeah (I used 3.9.6)
 
 If you found any other errors or bugs then please report to me via discord (MLo7#3256)
 
-The codes I did for the script is too messy lmao I wasn't planning on putting it anywhere
+The codes I did for the script is too messy lmao I wasn't planned on putting it anywhere
 
 # HOW TO USE
 (The step by step/box by box name is pretty self explanatory but oh well)
