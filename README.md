@@ -48,7 +48,7 @@ Make Hed: copy the content in "cNp.txt" to the hed that you were making and chan
 
 - The ability to resume/edit the saved or other hed files
 - The ability to remove/redo the phonemes/flags that were already added
-- The ability to make a proper CQ (this should be done by hand at the moment)
+- The ability to make a proper CQ question context (this should be done by hand at the moment)
 - The ability to list what has already been added
 - Something else I couldn't think of (?)
 
