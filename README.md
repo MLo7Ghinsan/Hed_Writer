@@ -10,7 +10,7 @@ Dependencies: Python... yeah (I used 3.9.6)
 
 If you found any other errors or bugs then please report to me via discord (MLo7#3256)
 
-The codes I did for the script is too messy,so no, I will not be releasing it publicly lmao
+The codes I did for the script is too messy lmao I wasn't planning on putting it anywhere
 
 # HOW TO USE
 (The step by step/box by box name is pretty self explanatory but oh well)
@@ -26,7 +26,7 @@ The codes I did for the script is too messy,so no, I will not be releasing it pu
 	- Note: this box is just the name of the flag, it will not be put in the note for usage
 
 4. Enter phoneme name/category
-	- Note: you can put it as anything, can be the same or different from the phoneme syllable
+	- Note: you can put it as anything, preferably the type of phoneme
 	- Note: this box is just the name of the phoneme, it will not be put in the note for usage
 
 6. Enter flag syllable(s)
@@ -35,6 +35,10 @@ The codes I did for the script is too messy,so no, I will not be releasing it pu
 
 7. Enter your phoneme syllable(s)
 	- Note: anything you put in this box will be used for phoneme in ENUNU/NNSVS usage/training
+	- If you want to use the add too list then you most first press "create new list", ONLY change this input section tp "Add to list".
+	   1) Press "New list" to eliminate the placeholder text
+	   2) Redo the cycle of "create new list" again
+	- Press "ADD" if you want to solely add the phoneme as individual
 
 
 # Buttons
@@ -48,7 +52,6 @@ Make Hed: copy the content in "cNp.txt" to the hed that you were making and chan
 
 - The ability to resume/edit the saved or other hed files
 - The ability to remove/redo the phonemes/flags that were already added
-- The ability to make a proper CQ question context (this should be done by hand at the moment)
 - The ability to list what has already been added
 - Something else I couldn't think of (?)
 
