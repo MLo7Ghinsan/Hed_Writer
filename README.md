@@ -37,7 +37,7 @@ The codes I did for the script is too messy lmao I wasn't planned on putting it 
 
 7. Enter your phoneme syllable(s)
 	- Note: anything you put in this box will be used for phoneme in ENUNU/NNSVS usage/training
-	- If you want to use the add too list then you most first press "create new list", ONLY change this input section tp "Add to list".
+	- If you want to use the add to list then you must first press "create new list", ONLY change this input section to add phonemes to the existing list: "Add to list".
 	   1) Press "New list" to eliminate the placeholder text
 	   2) Redo the cycle of "create new list" again
 	- Press "ADD" if you want to solely add the phoneme as individual
