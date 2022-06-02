@@ -8,7 +8,7 @@ from tkinter import *
 
     #window screen overall
 window = Tk()
-window.title("HED writer version 0.1")
+window.title("HED writer version 0.2")
 
 photo = PhotoImage(file = "hedwriteicon.png")
 window.iconphoto(False, photo)
