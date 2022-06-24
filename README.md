@@ -42,6 +42,8 @@ The codes I did for the script is too messy lmao I wasn't planned on putting it 
 	   2) Redo the cycle of "create new list" again
 	- Press "ADD" if you want to solely add the phoneme as individual
 
+(If you want to use specific/custom CQS lines when making an hed from scratch then you can just edit cNp.txt)
+
 
 # Buttons
 
