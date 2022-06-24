@@ -51,7 +51,7 @@ Edit HED: import the existing HED and edit it from there, or you can just use it
 
 Get values: get the value of in_dim that needs to be set for acoustic, timelag, and duration for training. Also in_ixf0_idx and in_rest_idx for F0 model training(s).
 
-Make Hed: copy the content in "cNp.txt" to the hed that you were making and change the extension from ".txt" to ".hed"
+Make Hed: copy the content in "cNp.txt" to the hed that you were making and change the extension from ".txt" to ".hed", but if you use "Edit HED" then it will only just change the extension.
 
 
 # Things that this program can't do (maybe yet)
