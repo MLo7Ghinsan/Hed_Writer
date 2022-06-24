@@ -45,14 +45,15 @@ The codes I did for the script is too messy lmao I wasn't planned on putting it 
 
 # Buttons
 
-Get in_dim: get the value of in_dim that needs to be set for acoustic, timelag, and duration for training
+Edit HED: import the existing HED and edit it from there, or you can just use it for getting the values (You'd need to press Make Hed first because it will change the extension from .hed to .txt when you import the HED).
+
+Get values: get the value of in_dim that needs to be set for acoustic, timelag, and duration for training. Also in_ixf0_idx and in_rest_idx for F0 model training(s).
 
 Make Hed: copy the content in "cNp.txt" to the hed that you were making and change the extension from ".txt" to ".hed"
 
 
 # Things that this program can't do (maybe yet)
 
-- The ability to resume/edit the saved or other hed files
 - The ability to remove/redo the phonemes/flags that were already added
 - The ability to list what has already been added
 - Something else I couldn't think of (?)
